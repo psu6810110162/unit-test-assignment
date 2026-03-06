@@ -1,0 +1,6 @@
+[project]
+name = "unit-test-assignment"
+version = "1.0.0"
+description = "Unit Test Assignment — 6810110162 Teerayut Siri"
+requires-python = ">=3.11"
+
