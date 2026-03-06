@@ -50,13 +50,13 @@ Input: grid = ["ebacd", "fghij", "olmkn", "trpqs", "xywuv"] → Output: YES
 
 Getting Started
 Install dependencies
-<pre>pip install coverage nose2<pre>
+pip install coverage nose2
 Run the CLI
-<pre>python main.py<pre>
+python main.py
 
 Running Tests
 Run all tests with verbose output
-<pre>coverage run -m nose2 -v<pre>
+coverage run -m nose2 -v
 Generate HTML coverage repor
-<pre>coverage html<pre>
+coverage html
 Then open htmlcov/index.html in a browser to inspect coverage.
